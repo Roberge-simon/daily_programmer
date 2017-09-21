@@ -1,0 +1,7 @@
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\bin\Debug\SubsetCellAutomaton.exe.config
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\bin\Debug\SubsetCellAutomaton.exe
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\bin\Debug\SubsetCellAutomaton.pdb
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\obj\Debug\SubsetCellAutomaton.csprojResolveAssemblyReference.cache
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\obj\Debug\SubsetCellAutomaton.csproj.CoreCompileInputs.cache
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\obj\Debug\SubsetCellAutomaton.exe
+C:\Users\Rober\Desktop\DailyProgrammer\SubsetCellAutomaton\SubsetCellAutomaton\obj\Debug\SubsetCellAutomaton.pdb
