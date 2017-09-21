@@ -5,6 +5,7 @@ using System.IO;
 using System.Threading.Tasks;
 
 /// <summary>
+/// https://stackoverflow.com/questions/1196322/how-to-create-an-animated-gif-in-net
 /// Creates a GIF using .Net GIF encoding and additional animation headers.
 /// </summary>
 public class GifWriter : IDisposable
